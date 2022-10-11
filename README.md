@@ -14,7 +14,7 @@ Smarty versions 3.1.11 or later can be installed with [Composer](https://getcomp
 
 To get the latest stable version of Smarty use:
 ```bash
-composer require smarty/smarty
+composer require roteskreuznoe/smarty
 ````
 
 More in the [Getting Started](./docs/getting-started.md) section of the docs.
